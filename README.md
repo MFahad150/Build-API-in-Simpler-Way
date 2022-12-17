@@ -23,7 +23,7 @@ npm init -yes
 ```
 **OR**
 ```bash
-npm init -t
+npm init -y
 ```
 
 
